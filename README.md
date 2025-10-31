@@ -1,3 +1,4 @@
+# ML Project Integration with MLflow Tracking
 This repository contains **two machine learning projects integrated with MLflow Tracking**.  
 MLflow is used to track model experiments, parameters, metrics, artifacts, and runs.
 
